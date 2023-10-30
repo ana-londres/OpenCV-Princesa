@@ -274,7 +274,7 @@ int main(int argc, const char** argv){
                     countsTime = duration_cast<seconds>(exec).count(); // Converte o tempo de duração para segundos e o armazena em countsTime
                     cout << "Timer: " << countsTime << "s" << endl;
                     
-                    if (beginCount && countsTime >= 5) {
+                    if (beginCount && countsTime >= 35) {
                         startGame = false;
                         operateMenu = true;
                         beginCount = false;
