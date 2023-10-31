@@ -38,6 +38,11 @@ Professor: Derzu Omaia.
     - A linha de comando para compilar o código é: ```g++ main.cpp Petisco.cpp GerenciaArquivo.cpp `pkg-config --cflags opencv4` `pkg-config --libs --static opencv4` ```
     - Depois de compilado, basta rodar o arquivo executável (ex: ```./a.out```)
 
+## Conhecendo Princesa
+- Princesa é uma cadela com deficiência visual que tivemos o prazer de conhecer durante nosso trabalho da disciplina de Introdução a Engenharia da Computação (2022.2), no qual fizemos um dispositivo com arduino chamado SIRIUS para ajudá-la a evitar colidir com objetos.
+
+![Foto com Princesa]()
+
 ## Contribuidores
 
 | <a href="https://www.linkedin.com/in/analondres/" target="_blank">**Ana Luisa Londres**</a> | <a href="https://www.linkedin.com/in/jo%C3%A3o-leonardo-vilar-ferreira-163730291/" target="_blank">**João Leonardo Vilar**</a> | <a href="https://www.linkedin.com/in/nicolle-cerqueira-086578291/" target="_blank">**Nicolle Cerqueira**</a> |
