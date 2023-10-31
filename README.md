@@ -37,7 +37,7 @@ Professor: Derzu Omaia.
 <p>&nbsp;</p>
 
 ## Como rodar o jogo?
-- As bibliotecas [OpenCV](https://sites.google.com/site/derzuomaia/tutoriais/instala%C3%A7%C3%A3o-opencv-no-linux-ubuntu) e [Chrono](https://api.projectchrono.org/tutorial_install_chrono.html) devem ser instaladas antes de rodar o jogo.
+- As bibliotecas [OpenCV](https://sites.google.com/site/derzuomaia/tutoriais/instala%C3%A7%C3%A3o-opencv-no-linux-ubuntu), [Chrono](https://api.projectchrono.org/tutorial_install_chrono.html) e [MPlayer](https://howtoinstall.co/package/mplayer) devem ser instaladas antes de rodar o jogo.
 
 - Rodando no Linux Ubuntu:
     - A linha de comando para compilar o código é: ```g++ main.cpp Petisco.cpp GerenciaArquivo.cpp `pkg-config --cflags opencv4` `pkg-config --libs --static opencv4` ```
