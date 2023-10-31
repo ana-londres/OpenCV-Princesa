@@ -1,7 +1,7 @@
 <h1 align="center"> 🐶  Princesa Catches  🐶</h1>
 
 </h1>
-Projeto final criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um jogo básico, utilizando a biblioteca OpenCV, feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
+Projeto final criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um jogo básico, utilizando a biblioteca OpenCV, feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos e o uso do algoritmo da OpenCV de detecção de objetos, em C++.
 
 <p>&nbsp;</p>
 
@@ -21,15 +21,20 @@ Professor: Derzu Omaia.
 
 - Tocar um som quando uma pontuação for feita.
 
+<p>&nbsp;</p>
 
 ## Diagrama de classes
 
-![Diagrama](https://github.com/ana-londres/farmacia-CRUD/blob/main/CrudAstahUML.png?raw=true)
+![Diagrama](https://github.com/ana-londres/OpenCV-Princesa/blob/main/imgs/uml-OpenCV.jpg?raw=true)
+
+<p>&nbsp;</p>
 
 ## Objetivo do jogo
 - O usuário deve mexer o rosto até o petisco para pontuar. O petisco aparecerá de maneira aleatória na tela.
 
 - O jogo tem duração de 35 segundos. O usuário, depois da partida, pode escolher jogar novamente ou sair do jogo.
+
+<p>&nbsp;</p>
 
 ## Como rodar o jogo?
 - As bibliotecas [OpenCV](https://sites.google.com/site/derzuomaia/tutoriais/instala%C3%A7%C3%A3o-opencv-no-linux-ubuntu) e [Chrono](https://api.projectchrono.org/tutorial_install_chrono.html) devem ser instaladas antes de rodar o jogo.
@@ -42,6 +47,7 @@ Professor: Derzu Omaia.
 - Princesa é uma cadela com deficiência visual que tivemos o prazer de conhecer durante nosso trabalho da disciplina de Introdução a Engenharia da Computação (2022.2), no qual fizemos um dispositivo com arduino chamado SIRIUS para ajudá-la a evitar colidir com objetos.
 
 ![Foto com Princesa]()
+<p>&nbsp;</p>
 
 ## Contribuidores
 
