@@ -24,7 +24,7 @@ Professor: Derzu Omaia.
 
 ## Diagrama de classes
 
-![Diagrama](https://github.com/ana-londres/farmacia-CRUD/blob/main/CrudAstahUML.png?raw=true)
+![Diagrama](https://github.com/ana-londres/OpenCV-Princesa/blob/main/imgs/uml-OpenCV.jpg?raw=true)
 
 ## Objetivo do jogo
 - O usuário deve mexer o rosto até o petisco para pontuar. O petisco aparecerá de maneira aleatória na tela.
