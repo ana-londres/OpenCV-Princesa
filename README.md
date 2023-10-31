@@ -34,6 +34,8 @@ Professor: Derzu Omaia.
 
 - O jogo tem duração de 35 segundos. O usuário, depois da partida, pode escolher jogar novamente ou sair do jogo.
 
+- O objetivo principal é bater o recorde no tempo proposto.
+
 <p>&nbsp;</p>
 
 ## Como rodar o jogo?
@@ -41,7 +43,7 @@ Professor: Derzu Omaia.
 
 - Rodando no Linux Ubuntu:
     - A linha de comando para compilar o código é: ```g++ main.cpp Petisco.cpp GerenciaArquivo.cpp `pkg-config --cflags opencv4` `pkg-config --libs --static opencv4` ```
-    - Depois de compilado, basta rodar o arquivo executável (ex: ```./a.out```)
+    - Depois de compilado, basta rodar o arquivo executável. (ex: ```./a.out```)
 
 <p>&nbsp;</p>
 
