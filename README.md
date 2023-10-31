@@ -48,7 +48,9 @@ Professor: Derzu Omaia.
 ## Conhecendo Princesa
 - Princesa é uma cadela com deficiência visual que tivemos o prazer de conhecer durante nosso trabalho da disciplina de Introdução a Engenharia da Computação (2022.2), no qual fizemos um dispositivo com arduino chamado SIRIUS para ajudá-la a evitar colidir com objetos.
 
-![Foto com Princesa](https://github.com/ana-londres/OpenCV-Princesa/blob/main/imgs/SIRIUSday.jpeg?raw=true)
+<p align="center">
+  <img src="https://github.com/ana-londres/OpenCV-Princesa/blob/main/imgs/SIRIUSday.jpeg?raw=true" alt="Foto com Princesa">
+</p>
 
 <p>&nbsp;</p>
 
