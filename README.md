@@ -1,7 +1,7 @@
 <h1 align="center"> 🐶  Princesa Catches  🐶</h1>
 
 </h1>
-Projeto final criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um jogo básico, utilizando a biblioteca OpenCV, feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos em C++.
+Projeto final criado para a disciplina de Linguagem de Programação I, com o desenvolvimento de um jogo básico, utilizando a biblioteca OpenCV, feito para avaliar, na prática, os conhecimentos ensinados sobre Programação Orientada a Objetos e o uso do algoritmo da OpenCV de detecção de objetos, em C++.
 
 <p>&nbsp;</p>
 
