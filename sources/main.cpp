@@ -88,11 +88,11 @@ void detectAndDraw( Mat& img, CascadeClassifier& cascade, double scale, bool try
     //cout << smallImg.rows << " " << smallImg.cols << endl; -> Checar tamanho da webcam
 
     cascade.detectMultiScale( smallImg, faces,
-        1.3, 2, 0
+        1.3, 5);
         //|CASCADE_FIND_BIGGEST_OBJECT
-        //|CASCADE_DO_ROUGH_SEARCH
-        |CASCADE_SCALE_IMAGE,
-        Size(40, 40) );
+        //|CASCADE_DO_ROUGH_SEARCH/
+        //|CASCADE_SCALE_IMAGE,
+        //Size(40, 40) );
     t = (double)getTickCount() - t;
 
     // PERCORRE AS FACES ENCONTRADAS    
@@ -162,8 +162,8 @@ void drawMenu(Mat &img) {
 
     fontHeight = 100;
     ft3->putText(img, "Record: " + std::to_string(record), Point(485, 230), fontHeight / 2, Scalar(128, 0, 0), -1, LINE_AA, true);
-    ft3->putText(img, "Press 'S' to start the game", Point(280, 400), fontHeight / 2, Scalar(151, 87, 15), -1, LINE_AA, true);
-    ft3->putText(img, "Press 'Q' to quit the game", Point(290, 500), fontHeight / 2, Scalar(151, 87, 15), -1, LINE_AA, true);
+    ft3->putText(img, "Press 'S' to start the game", Point(280, 400), fontHeight / 2, Scalar(169, 155, 25), -1, LINE_AA, true);
+    ft3->putText(img, "Press 'Q' to quit the game", Point(290, 500), fontHeight / 2, Scalar(236, 88, 132), -1, LINE_AA, true);
 
     imshow("result", img);
 }
